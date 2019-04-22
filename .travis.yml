@@ -6,7 +6,6 @@ cache:
   - node_modules
 script:
   - npm run build
-
 deploy:
   provider: pages
   skip_cleanup: true
@@ -14,4 +13,4 @@ deploy:
   local_dir: dist
   target_branch: gh-pages
   on:
-    branch: master
+    branch: dev
