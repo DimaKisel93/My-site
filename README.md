@@ -25,3 +25,4 @@ $ npm run имя_скрипта
 
 ### Demo
 [Portfolio](https://dimakisel93.github.io/My-site/)
+[![Build Status](https://travis-ci.org/DimaKisel93/My-site.svg?branch=dev)](https://travis-ci.org/DimaKisel93/My-site)
